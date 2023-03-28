@@ -1,4 +1,4 @@
-from logic2 import addTask, viewTask, present ,updateTask
+from logic import addTask, viewTask, present ,updateTask
 
 def start():
     exit = False
